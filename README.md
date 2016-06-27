@@ -9,5 +9,11 @@
 - 在命令提示字元內可以打Python
 
 ## 安裝Jupyter Notebook
+- 下載 https://pypi.python.org/pypi/distribute/0.6.49
+- 解壓縮
+- cd distribute-0.6.49
+- python setup.py install
+- easy_install pip
 - pip install jupyter notebook
+
 
