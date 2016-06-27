@@ -8,3 +8,6 @@
 - 在Path 後面打入;C:\Python33;C:\Python33\Scripts
 - 在命令提示字元內可以打Python
 
+## 安裝Jupyter Notebook
+- pip install jupyter notebook
+
