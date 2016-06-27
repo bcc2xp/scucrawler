@@ -12,4 +12,6 @@
 - https://www.continuum.io/downloads
 - 使用 http://repo.continuum.io/archive/Anaconda3-4.0.0-Windows-x86.exe
 
+## 安裝 InfoLite
+- https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
 
